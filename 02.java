@@ -1,6 +1,7 @@
 class Student 
 {public static void main (String[]arg)
  {
+  
     System.out.println("---BIODATA---");
     System.out.println("NAME\t\t:MANISH PANDEY");
     System.out.println("AGE\t\t:20");
