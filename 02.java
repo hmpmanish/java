@@ -3,17 +3,17 @@ class Student
  {
     System.out.println("---BIODATA---");
     System.out.println("NAME\t\t:MANISH PANDEY");
-    System.out.println("AGE\t\t:21");
+    System.out.println("AGE\t\t:20");
     System.out.println("GENDER\t\t:M");
-   // System.out.println("CITY\t\t:GONDA");
+    System.out.println("CITY\t\t:Gonda UP";
 
-    System.out.println("---formatted output---");
-    String NAME ="vym";
-    int age =30;
-    String GENDER="male";
+    System.out.println("---FORMATTED OUTPUT---");
+    String NAME ="MANISH PANDEY";
+    int AGE =20;
+    String GENDER="MALE";
 
     System.out.printf("Name   : %s%n", NAME);
-    System.out.printf("Age    : %d%n", age);
+    System.out.printf("Age    : %d%n", AGE);
     System.out.printf("Gender : %s%n", GENDER);
 
 }
