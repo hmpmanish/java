@@ -45,6 +45,12 @@ class Calcuator{
                     
                     
                       case 4:
+                          if(n2==0){
+                                                     System.out.print("div is not possible due to vlue of n2");
+    
+                              
+                              
+                          }
             int result4 =n1/n2;
                     System.out.print(result4);
                     break;
