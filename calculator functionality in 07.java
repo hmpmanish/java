@@ -9,11 +9,19 @@ class Calcuator{
         System.out.println("4.Division");
         System.out.println("Enter you choice");
         choice=sc.nextInt();
+        
+        
+        System.out.print("Enter the first no:");
+        n1=sc.nextInt();
+        System.out.print("Enter the second no:");
+        n2=sc.nextInt();
+        
+        
         switch(choice)
         {
             case 1:
             int result1 =n1+n2;
-                    System.out.print("result1");
+                    System.out.print(result1);
                     break;
                     
                     
@@ -22,7 +30,7 @@ class Calcuator{
                     
                       case 2:
             int result2 =n1-n2;
-                    System.out.print("result2");
+                    System.out.print(result2);
                     break;
                     
                     
@@ -30,7 +38,7 @@ class Calcuator{
                     
                       case 3 :
             int result3 =n1*n2;
-                    System.out.print("result3");
+                    System.out.print(result3);
                     break;
                     
                     
@@ -38,7 +46,7 @@ class Calcuator{
                     
                       case 4:
             int result4 =n1/n2;
-                    System.out.print("result4");
+                    System.out.print(result4);
                     break;
                     
                     default:
@@ -51,10 +59,7 @@ class Calcuator{
         
         
         
-        System.out.print("Enter the first no:");
-        n1=sc.nextInt();
-        System.out.print("Enter the second no:");
-        n2=sc.nextInt();
+        
         
         
     }
