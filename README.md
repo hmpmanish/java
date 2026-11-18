@@ -40,6 +40,25 @@ This repository contains clean, modular, and thoroughly documented Java programs
 
 ---
 
+## 🎯 End-Semester Examination Practical Programs
+
+A dedicated directory containing the **10 Selected Programs** for the **Java Practical End-Semester Examination** is available in [`JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/):
+
+| Exam Q. | Program Title | Concept | Source File |
+|:---:|:---|:---|:---|
+| **Program 5** | Prompt user to enter name & age at runtime. Store and display in object `s1`. | Class & Object, Scanner | [`Program05_UserObjectInput.java`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/Program05_UserObjectInput.java) |
+| **Program 10** | Sort array elements in ascending and descending order. | Arrays, Loops | [`Program10_ArraySort.java`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/Program10_ArraySort.java) |
+| **Program 12** | Demonstrate `this` keyword, static variables, methods, and blocks. | `this` and `static` | [`Program12_StaticAndThis.java`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/Program12_StaticAndThis.java) |
+| **Program 13** | Default, parameterized constructors & constructor overloading. | Constructors | [`Program13_ConstructorOverloading.java`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/Program13_ConstructorOverloading.java) |
+| **Program 17** | Compile-time polymorphism using method overloading. | Method Overloading | [`Program17_MethodOverloading.java`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/Program17_MethodOverloading.java) |
+| **Program 19** | Multilevel inheritance using Employee and Manager classes. | Inheritance | [`Program19_MultilevelInheritance.java`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/Program19_MultilevelInheritance.java) |
+| **Program 21** | Calculate area of shapes using an abstract class. | Abstraction | [`Program21_AbstractShapeArea.java`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/Program21_AbstractShapeArea.java) |
+| **Program 22** | Multiple inheritance using interfaces. | Interfaces | [`Program22_MultipleInheritanceInterface.java`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/Program22_MultipleInheritanceInterface.java) |
+| **Program 23** | Handle `ArithmeticException` and `ArrayIndexOutOfBoundsException`. | Exception Handling | [`Program23_HandleExceptions.java`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/Program23_HandleExceptions.java) |
+| **Program 28** | Create and execute a thread by extending `Thread` class. | Multithreading | [`Program28_ThreadClass.java`](JAVA_PRACTICAL_END_SEMESTER_EXAMINATION/Program28_ThreadClass.java) |
+
+---
+
 ## 🚀 How to Compile and Run
 
 1. **Clone the repository:**
